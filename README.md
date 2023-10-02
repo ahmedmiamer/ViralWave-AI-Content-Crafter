@@ -1,3 +1,20 @@
+
+# 🚀 ViralWave AI Content Crafter
+
+### Unleash trends! Catch viral waves and craft captivating content with ViralWave AI.
+
+For content creators (initially targeting podcasters) needing timely viral trends, ViralWave AI Content Crafter eradicates the struggle of finding, summarizing, and script crafting for trending topics, ensuring always-relevant and engaging content creation.
+
+<center><img src="./ViralWaveAIContentCrafterAgent//assets/images/ViralWaveAIContentCrafterlogo.png" alt="ViralWave AI Content Crafter Banner" width="50%"/></center>
+
+[🡺 More Info 🡸](./ViralWaveAIContentCrafterAgent/README.md)
+
+---
+---
+---
+
+<u><h3>Based on:</h3></u>
+
 # 🌟 AutoGPT: the heart of the open-source agent ecosystem
 
 [![Discord Follow](https://dcbadge.vercel.app/api/server/autogpt?style=flat)](https://discord.gg/autogpt) [![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social)](https://github.com/Significant-Gravitas/AutoGPT/stargazers) [![Twitter Follow](https://img.shields.io/twitter/follow/auto_gpt?style=social)](https://twitter.com/Auto_GPT) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
